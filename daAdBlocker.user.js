@@ -4,6 +4,7 @@
 // @description  blocks stupid ads on deviantart
 // @match      *.deviantart.com/*
 // @require http://code.jquery.com/jquery-latest.js
+// @downloadURL https://github.com/Sunlitazure/Deviantart-Ad-Blocker/blob/master/daAdBlocker.user.js
 // ==/UserScript==
 
 $(document).ready(function() {
