@@ -10,6 +10,6 @@
 $(document).ready(function() {
     setTimeout( function() {
         $('.block-notice').css('display', 'none');
-    }, 1000);
+    }, 100);
 });
 
