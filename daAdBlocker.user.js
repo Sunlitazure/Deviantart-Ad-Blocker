@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       daAdBlocker
-// @version    1.0.0
+// @version    1.0.1
 // @description  blocks stupid ads on deviantart
 // @match      *.deviantart.com/*
 // @require http://code.jquery.com/jquery-latest.js
